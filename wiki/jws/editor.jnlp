@@ -10,7 +10,7 @@
 <resources>
 	<j2se href='http://java.sun.com/products/autodl/j2se' version='1.5+' max-heap-size='128m'/>
 	<jar href='svn/wiki/jws/tablelayout-editor.jar'/>
-	<jar href='svn/wiki/jws/rsyntaxtextarea-r302.jar'/>
+	<jar href='svn/wiki/jws/rsyntaxtextarea-r303-mod.jar'/>
 	<jar href='svn/wiki/jws/autocomplete-r302.jar'/>
 </resources>
 <security><all-permissions/></security>
