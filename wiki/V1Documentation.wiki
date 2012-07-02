@@ -1,4 +1,4 @@
-[http://table-layout.googlecode.com/svn/wiki/tablelayout-logo.gif]
+*Note: This documentation is for TableLayout v1, which has been deprecated.*
 
 !TableLayout is a lightweight library for describing a hierarchy of GUI widgets and laying them out using rows and columns. Assembling GUI widgets in code is clumsy and obfuscates the widget hierarchy. !TableLayout provides its own simple and concise language for expressing the GUI. !TableLayout cleanly describes an entire object graph of GUI widgets, leaving the Java code clean and uncluttered.
 
